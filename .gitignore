@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+backend/.env
+backend/data/*.sqlite3
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+!ml/dataset/.gitkeep
